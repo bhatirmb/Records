@@ -12,6 +12,8 @@ git remote add origin https://github.com/bhatirmb/Files.git
 
 git push -u origin main
 
+------------------------------------
+
 git clone https://github.com/bhatirmb/Files.git
 
 git pull https://github.com/bhatirmb/Files.git main
